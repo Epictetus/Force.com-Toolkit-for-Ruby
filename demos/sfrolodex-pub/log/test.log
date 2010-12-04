@@ -1,0 +1,1200 @@
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/salesforce/student_test.rb:1:in `require'
+./test/unit/salesforce/student_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/salesforce/student_test.rb:1:in `require'
+./test/unit/salesforce/student_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/salesforce/student_test.rb:1:in `require'
+./test/unit/salesforce/student_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/salesforce/student_test.rb:1:in `require'
+./test/unit/salesforce/student_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/contact_test.rb:1:in `require'
+./test/unit/contact_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load contact, underlying cause no such file to load -- contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load saleforce_contact, underlying cause no such file to load -- saleforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_contact, underlying cause no such file to load -- salesforce_contact 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load salesforce_student, underlying cause no such file to load -- salesforce_student 
+
+ /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/contacts_controller_test.rb:1:in `require'
+./test/functional/contacts_controller_test.rb:1
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/Library/Ruby/Gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5

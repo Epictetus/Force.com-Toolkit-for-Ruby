@@ -1,0 +1,2 @@
+module Saleforce::ContactsHelper
+end
