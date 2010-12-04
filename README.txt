@@ -1,0 +1,3 @@
+The Ruby Toolkit is built on the ASF Soap Adapter GEM, which itself is based on the earlier ActiveSalesforce-Adapter GEM, but offers more functionality and flexibility. It includes several Salesforce convienence classes for standard objects, Chatter methods and more SQL options for data queries. The RForce GEM is now a prerequisite for use, rather than being embedded, which allows for future updates to that functionality to be handled independently.
+
+See http://wiki.developerforce.com/index.php/Getting_Started_With_The_Ruby_Toolkit for the most up to date information.
